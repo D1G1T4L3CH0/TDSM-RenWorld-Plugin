@@ -1,5 +1,5 @@
 # TDSM RenWorld Plugin
-Renames a world.
+Renames the world.
 
 ## About
 A simple plugin to rename your world. I found myself in need of this before, so I made it since it was really simple. It's also a good plugin for an example to learn from if just learning Lua and/or TDSM Plugins. Feel free to submit a pull or fork it.
