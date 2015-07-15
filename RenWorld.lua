@@ -6,10 +6,10 @@
 	  - No checks are done yet for invalid characters or name length. So be careful of that.
 ]]
 
-import ('tdsm.api')
-import ('tdsm.api.Misc')
-import ('tdsm.api.Plugin') --HookResult
-import ('tdsm.api.Command') --AccessLevel
+import ('TDSM.API')
+import ('TDSM.API.Misc')
+import ('TDSM.API.Plugin') --HookResult
+import ('TDSM.API.Command') --AccessLevel
 import ('Terraria')
 
 RenWorld = {}
