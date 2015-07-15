@@ -20,8 +20,8 @@ function RenWorld.create()
 	setmetatable(plg, RenWorld)
 
 	--Set the details (TDSM requires this)
-	plg.TDSMBuild = 2
-	plg.Version = "1"
+	plg.TDSMBuild = 3
+	plg.Version = "1.0.3"
 	plg.Author = "D1G1T4L3CH0"
 	plg.Name = "RenWorld"
 	plg.Description = "Renames a world."
