@@ -1,3 +1,6 @@
+#NOTICE - No Longer Working
+This plugin no longer works and was originally only for an early version of TDSM Rebind and now TDSM no longer under development.
+
 # TDSM RenWorld Plugin
 Renames the world.
 
